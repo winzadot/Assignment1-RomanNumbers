@@ -1,5 +1,5 @@
 import unittest
-from src.numbertoRoman import first_assignment_nr
+from Roman.src.numbertoRoman import first_assignment_nr
 
 class NumbertoRomanTest(unittest.TestCase):
     def setUp(self):
